@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1 {
+    font: 200% Georgia, "Times New Roman", Times, serif;
+}
+.header {
+
+    background-color: #222699;
+    height:60px ;
+    font: 200% Georgia, "Times New Roman", Times, serif;
+    color: #fffbf9;
+    text-align: left ;
+    padding-top: 20px ;
+    padding-left:10%;
+}
+
+.exit {
+    border-radius: 25px;
+    border: 1px solid #333;
+    float: right;
+    background-color: #885fff;
+    margin-right: 25px;
+
+    height: 40px;
+    width: 150px;
+}
+.exit a {
+    text-decoration: none;
+    font: 50% Georgia, "Times New Roman", Times, serif;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+
+.content h1 {
+    font: 200% Georgia, "Times New Roman", Times, serif;
+}
+.content {
+
+
+}
+.menu{
+    background-color: #222699;
+    position: absolute;
+    text-align: center;
+    height: 40px;
+    width: 100%;
+}
+
+.menu a{
+
+    text-decoration: none;
+    font: 100% Georgia, "Times New Roman", Times, serif;
+    color: #FFFFFF;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.cont {
+    margin-left: 35%;
+    float: left;
+    text-align: left;
+    padding: 40px;
+    color: black;
+}
+
+.cont form{
+    margin: 40px;
+    text-align: left;
+    font: 100% Georgia, "Times New Roman", Times, serif;
+
+}
+
